@@ -1,0 +1,24 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Playing around with node",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npm run index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahul-vm/node-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahul-vm/node-express/issues"
+  },
+  "homepage": "https://github.com/shahul-vm/node-express#readme",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "express": "^4.17.1"
+  }
+}
